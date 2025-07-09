@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wathusiridream
-- 👀 I’m interested in Data Science , System Analyst and Coding Program
+- 👀 I’m interested in Data Analyst , System Analyst and Coding Program
 - 🌱 I’m recent graduate from Information Technology at Kasetsart University Siracha Campus
 
 <!---
